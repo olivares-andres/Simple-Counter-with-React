@@ -1,0 +1,29 @@
+.rowCss  {
+  background-color: black;
+  height: 300px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-left: 23px;
+    margin-left: 100px;
+}
+
+.rowCss div{
+  width: 200px;
+  height:200px;
+  display: grid;
+  font-size: 50px;
+  line-height: 20px;
+  padding: 10px;
+  background: #101010;
+  color: white;
+ 
+}
+
+.divCss{
+  border-radius:20px;
+  background-color: rgb(44, 44, 44);
+  align-content: center;
+  margin: 10px;
+}
+
